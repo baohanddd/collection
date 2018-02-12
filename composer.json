@@ -2,7 +2,7 @@
   "name": "baohan/collection",
   "description": "A wrapper class to provide way to access array in object oriented",
   "require": {
-    "php": "^5.5.9"
+    "php": ">=5.5.9"
   },
   "license": "MIT",
   "authors": [
